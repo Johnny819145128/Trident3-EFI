@@ -1,5 +1,6 @@
 # Trident3-EFI
 This is an EFI files of Hackintosh for MSI Trident3 
+
 这是微星主机海皇戟3的黑苹果引导文件，无线网卡和蓝牙已经更换成免驱的BCM94360CS2
 
 里面有两个系统版本
